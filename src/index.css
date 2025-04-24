@@ -23,3 +23,28 @@ footer {
   padding: 1rem;
   margin-top: 2rem;
 }
+
+.main-container {
+  padding: 20px;
+}
+
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.search-input {
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 20px;
+  font-size: 1rem;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+}
