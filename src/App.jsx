@@ -1,5 +1,8 @@
 import { useState, useEffect } from 'react'
 import { Header } from './Components/Layouts/Header/Header'
+import './index.css';
+import { MainContainer } from './Components/Layouts/MainContainer/MainContainer';
+import { Footer } from './Components/Layouts/Footer/Footer';
 
 export const App = () => {
 
@@ -25,5 +28,3 @@ export const App = () => {
     </>
   )
 }
-
-
