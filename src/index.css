@@ -10,3 +10,16 @@ header {
     font-size: 2rem;
     color: white;
   }
+
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f9f9f9;
+}
+footer {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
